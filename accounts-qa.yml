@@ -10,7 +10,7 @@ accounts:
   message: "Welcome to HarshBank accounts related QA APIs "
   contactDetails:
     name: "Aishwarya Ray - QA Lead"
-    email: "aishwarya@harshbank.com"
+    email: "{cipher}0e7ba768476949f0c43cdf0ffd3d5624a42804454d77304e2d8afc3eb503e90173c1385e13ca1eac410232241f124367"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
