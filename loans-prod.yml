@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to HarshBank loans related prod APIs "
+  message: "Welcome to HarshBank loans related production APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@harshbank.com"
