@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to HarshBank accounts related prod APIs "
+  message: "Welcome to HarshBank accounts related production APIs "
   contactDetails:
     name: "Raveena Tandon - Product Owner"
     email: "raveena@harshbank.com"
